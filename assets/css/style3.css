@@ -1,0 +1,183 @@
+ * {
+    padding: 0;
+    margin: 0;
+   
+}
+
+body {
+   background-image: url('../images/gravel/gravel.png');
+}
+
+#nav-container {
+   background-color:#fff;
+   padding: 10px;
+   border: 1px solid;
+   height: 40px;
+}
+
+#nav2 {
+   background-color: white;
+   word-spacing: 8px;
+   height: 30px;
+   padding:8px;
+   color: white;
+   position: absolute;
+   left: 60%;
+}
+
+#name {
+   background-color: #4aaaa5;
+   color: #777777;
+   font-family: 'Georgia', Times, Times New Roman, serif;
+   font-size: 2em;
+   float: left;
+   padding:20px;
+   width: 250px;
+   height:20px;
+   color: white;
+   position: relative;
+   left: 25%;
+   bottom: 10%;
+}
+
+#div1 {
+   background-color: #fff;
+   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+   width:50%;
+   margin:auto;
+   padding: 20px;
+   border: 1px solid;
+   margin-top: 60px;
+   position: relative;
+}
+
+h2 {
+   color:#4aaaa5;
+   padding:20px;
+   font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.images {
+   background-color: #fff;
+   margin: 0 auto;
+   position: relative;
+   max-height: 20%;
+}
+
+
+.images1 {
+    margin: 30px 10px 40px 400px; 
+}
+
+.images2 {
+   margin: 40px 10px 70px 400px;
+}
+
+.images3 {
+   position: absolute;
+   bottom: 500px;
+   left: 40px;
+   /*position:relative;
+   bottom: 630px;
+   left: 40px; */
+}
+
+.images4 {
+   position: absolute;
+   bottom: 270px;
+   left: 40px;
+   /*bottom: 550px;
+   left: 40px; */
+}
+
+.images5 {
+   position: absolute;
+   bottom: 40px;
+   left: 40px;
+}
+   /* bottom: 450px;
+   left: 40px; */
+
+
+
+.title1{
+   background-color: #4aaaa5;
+   color: white;
+   font-family: 'Georgia', Times, Times New Roman, serif;
+   text-align: center;
+   padding: 10px;
+   position: relative;
+   z-index:1;
+   width: 180px;
+   top: 180px;
+   left: 40px;
+}
+
+.title2{
+   background-color: #4aaaa5;
+   color: white;
+   font-family: 'Georgia', Times, Times New Roman, serif;
+   text-align: center;
+   padding: 10px;
+   position: relative;
+   z-index:1;
+   width: 180px;
+   top: 100px;
+   left: 40px;
+}
+
+
+.title3{
+   background-color: #4aaaa5;
+   color: white;
+   font-family: 'Georgia', Times, Times New Roman, serif;
+   text-align: center;
+   padding: 10px;
+   position: relative;
+   z-index:1;
+   width: 180px;
+   top: -10px;
+   left: 40px;
+}
+
+.title4{
+   background-color: #4aaaa5;
+   color: white;
+   font-family: 'Georgia', Times, Times New Roman, serif;
+   text-align: center;
+   padding: 10px;
+   position: relative;
+   z-index:1;
+   width: 180px;
+   top: -700px;
+   left: 400px;
+}
+
+.title5{
+   background-color: #4aaaa5;
+   color: white;
+   font-family: 'Georgia', Times, Times New Roman, serif;
+   text-align: center;
+   padding: 10px;
+   position: absolute;
+   z-index:1;
+   width: 180px;
+   top: 340px;
+   /*top: -650px;*/
+   left: 400px;
+}
+
+#above {
+   background-color:#4aaaa5;
+   height:10px;
+   left:0;
+   bottom:50px;
+   
+}
+#footer{
+   background-color: #cccccc;
+   text-align:center;
+   padding: 20px;
+   width: 100%;
+   bottom:0;
+}
