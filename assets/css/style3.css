@@ -1,4 +1,5 @@
- * {
+
+* {
     padding: 0;
     margin: 0;
    
@@ -12,45 +13,77 @@ body {
    background-color:#fff;
    padding: 10px;
    border: 1px solid;
-   height: 40px;
+   width: 100%;
+   
+
 }
 
 #nav2 {
    background-color: white;
-   word-spacing: 8px;
+   word-spacing: 20px;
    height: 30px;
    padding:8px;
    color: white;
-   position: absolute;
-   left: 60%;
+   position: relative;
+   left: 68%;
 }
 
-#name {
+header {
    background-color: #4aaaa5;
    color: #777777;
    font-family: 'Georgia', Times, Times New Roman, serif;
    font-size: 2em;
-   float: left;
+   border: #cccccc;
+   padding: 15px;
+   width: 250px;
+   color: #fff;
+   position: absolute;
+   left: 250px;
+}
+   
+   /*float: left;
    padding:20px;
    width: 250px;
    height:20px;
-   color: white;
+   color: #fff;
    position: relative;
    left: 25%;
    bottom: 10%;
-}
+}*/
 
-#div1 {
+#contact{
+   clear:both;
    background-color: #fff;
    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
    width: 960px;
    box-sizing: border-box;
    margin:auto;
-   padding: 20px;
+   padding: 30px;
+   line-height:25px;
    border: 1px solid;
-   margin-top: 60px;
+   margin-top: 30px;
    position: relative;
+   
 }
+
+.contact-name {
+   width: 100%;
+   padding: 5px
+   
+}
+
+.contact-email {
+   width: 100%;
+   padding: 5px;
+   
+}
+
+.contact-msg {
+   height: 300px;
+   width: 100%;
+   
+}
+
 
 h2 {
    color:#4aaaa5;
@@ -58,27 +91,14 @@ h2 {
    font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
-.images {
-   background-color: #fff;
-   margin: 0 auto;
-   overflow: auto;
 
-}
-
-h3 {
-   background-color: teal;
-   color: white;
-   text-align: center;
+#button{
+   background-color: #4aaaa5;
+   color:white;
    padding: 10px;
-   position: absolute;
-   margin-top: 120px;
+   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+   width: 100px;
 }
-
-#image1, #image2, #image3, #image4, #image5{
-   float: left;
-   margin: 20px;
-}
-
 
 
 footer{
