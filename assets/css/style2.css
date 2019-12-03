@@ -47,8 +47,8 @@ body {
    clear:both;
    background-color: #fff;
    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-   width:50%;
-   height:50%;
+   width: 960px;
+   box-sizing: border-box;
    margin:auto;
    padding: 30px;
    line-height:25px;

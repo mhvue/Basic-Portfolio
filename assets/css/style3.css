@@ -43,7 +43,8 @@ body {
 #div1 {
    background-color: #fff;
    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-   width:50%;
+   width: 960px;
+   box-sizing: border-box;
    margin:auto;
    padding: 20px;
    border: 1px solid;
