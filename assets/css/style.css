@@ -45,8 +45,9 @@
     margin:auto;
     padding: 20px;
     line-height:25px;
-    border: 1px solid;
+    border: 1px solid #dddddd;
     margin-top: 30px;
+    color: #777777;
 }
 
 h2 {
