@@ -58,19 +58,14 @@ header {
    
 }
 
-.contact-name {
-   width: 100%;
-   padding: 5px
-   
-}
-
-.contact-email {
+.contact-info {
    width: 100%;
    padding: 5px;
    
 }
 
-.contact-msg {
+
+#contact-msg {
    height: 300px;
    width: 100%;
    
@@ -86,7 +81,7 @@ h2 {
 
 #button{
    background-color: #4aaaa5;
-   color:white;
+   color: #ffffff;
    padding: 10px;
    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
    width: 100px;
@@ -95,6 +90,7 @@ h2 {
 
 footer{
    background-color: #666666;
+   font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
    text-align:center;
    padding: 20px;
    width: 100%;
