@@ -38,18 +38,9 @@ header {
    width: 250px;
    color: #fff;
    position: absolute;
-   left: 250px;
+   left: 300px;
 }
    
-   /*float: left;
-   padding:20px;
-   width: 250px;
-   height:20px;
-   color: #fff;
-   position: relative;
-   left: 25%;
-   bottom: 10%;
-}*/
 
 #contact{
    clear:both;
