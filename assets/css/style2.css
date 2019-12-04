@@ -12,7 +12,6 @@ body {
    background-color:#ffffff;
    padding: 10px;
    border: 1px solid;
-   /* height: 40px;*/
    width: 100%;
 }
 
@@ -69,6 +68,8 @@ h3 {
    margin-top: 120px;
 }
 
+
+/*obtained from w3 schools*/
 .images {
    float:left;
    width: 33.3%;
@@ -76,6 +77,7 @@ h3 {
    margin:20px;
 }
 
+/*obtained from w3 schools*/
 .images-container::after {
    content: "";
    clear: both;
