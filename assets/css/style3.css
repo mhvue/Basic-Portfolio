@@ -19,11 +19,11 @@ body {
 }
 
 #nav2 {
-   background-color: white;
+   background-color: #fff;
    word-spacing: 20px;
    height: 30px;
    padding:8px;
-   color: white;
+   color: #fff;
    position: relative;
    left: 68%;
 }
