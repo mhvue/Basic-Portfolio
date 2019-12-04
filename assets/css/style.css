@@ -19,11 +19,11 @@
     background-color: #ffffff;
     word-spacing: 20px;
     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    height: 30px;
-    padding:8px;
+    width: 250px;
+    padding: 15px;
     color: #ffffff;
     position: relative;
-    left: 68%;
+    left: 1000px;
  }
  
  header {
