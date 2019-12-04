@@ -93,10 +93,10 @@ h2 {
 
 
 footer{
-   background-color: #cccccc;
+   background-color: #666666;
    text-align:center;
    padding: 20px;
    width: 100%;
    bottom: 0;
-   border-top: 5px solid #4aaaa5;
+   border-top: 8px solid #4aaaa5;
 }
