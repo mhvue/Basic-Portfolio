@@ -69,7 +69,7 @@ h3 {
 }
 
 
-/*obtained from w3 schools*/
+/*credit to w3 schools*/
 .images {
    float:left;
    width: 33.3%;
@@ -77,7 +77,7 @@ h3 {
    margin:20px;
 }
 
-/*obtained from w3 schools*/
+/*credit to w3 schools*/
 .images-container::after {
    content: "";
    clear: both;
